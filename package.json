@@ -15,7 +15,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongoose": "^9.0.0"
   },
   "devDependencies": {
     "compression": "^1.8.1",
